@@ -10,6 +10,7 @@
 * [znfixture](https://github.com/znfixture) - Фикстуры с данными
 * [znfork](https://github.com/znfork) - Форки сторонних пакетов
 * [znlib](https://github.com/znlib) - Библиотеки
+* [znproject](https://github.com/znproject) - Проекты
 * [znsandbox](https://github.com/znsandbox) - Песочница для пакетов (сырые, испытательные наработки)
 * [zntool](https://github.com/zntool) - Инструменты для разработки
 * [zntpl](https://github.com/zntpl) - Шаблоны проектов
