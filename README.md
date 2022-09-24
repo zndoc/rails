@@ -6,5 +6,4 @@
 
 # Сообщество
 
-* [Канал о Symfony и PHP](https://t.me/symfonylab)
-* [Сообщество Synfony и PHP](https://t.me/symfonylabgroup)
+* [Канал о Symfony и PHP](https://t.me/symfonylabchannel)
